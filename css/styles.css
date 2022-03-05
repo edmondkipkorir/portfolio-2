@@ -5,5 +5,12 @@ ul{
 }
 h1{
     border: 2px solid red;
-    text-align: center; 
+    text-align: center;
+    background-color: blue;
+}
+body{
+    background-color: rgb(173, 172, 169);
+}
+.mainContent{
+    padding: 7px;
 }
